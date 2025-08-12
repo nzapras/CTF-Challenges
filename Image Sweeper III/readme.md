@@ -11,17 +11,17 @@ This challenge is one in a series of challenges which starts at the image level.
 After previously discovering the target’s github in the challenge ‘Image Sweeper I’ one can find the target’s Twitter/X handle as seen in the Figure X.  From here it is expected that users will navigate to the target’s twitter as part of a their OSINT investigation.   
 
 
-![]()
+![](https://github.com/nzapras/CTF-Challenges/blob/main/Image%20Sweeper%20III/image1.png)
 
  
 
 Once the users have navigated to the target’s twitter page they are then expected to navigate to the ‘Posts’ tab where they will find a tweet which states that the target states that they can free wifi from their apartment. Additionally, the target also provides the BSSID of the wifi they are connecting to for free.  This information is outlined in Figure X.  
 
-![]()
+![](https://github.com/nzapras/CTF-Challenges/blob/main/Image%20Sweeper%20III/image2.png)
 
 Lastly, this BSSID can then be looked up on Wigle.net, a free web app.  This will not only reveal the geolocation of the target but also the SSID of the network they are connected to. This is highlighted in Figure X. The user then enters the SSID as the flag to complete the challenge. 
 
-![]()
+![](https://github.com/nzapras/CTF-Challenges/blob/main/Image%20Sweeper%20III/image3.png)
 
 # Recreating this challenge
 
