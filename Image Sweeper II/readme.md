@@ -1,6 +1,6 @@
 ﻿﻿
 
-# Challenge 1 - Image Sweeper II
+# Challenge 2 - Image Sweeper II
 
 ## Description
 
