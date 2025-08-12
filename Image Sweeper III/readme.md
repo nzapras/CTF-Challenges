@@ -22,7 +22,7 @@ Lastly, this BSSID can then be looked up on Wigle.net, a free web app.  This wil
 
 Insert Image 3
 
-# Recreation
+# Recreating this challenge
 
 To recreate this challenge one can follow these steps:
 
