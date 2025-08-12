@@ -4,10 +4,10 @@
 
 ## Description
 
-The objective of this challenge is to extract and reconstruct a file from the network capture. Once the file has been reconstructed, using forensics technique indicate that the file is an encrypted compressed ZIP file. The encrypted file must be cracked using any preferred password cracking tool using the famous rockyou.txt password list. Once the file is decrypted, uploading the file hash to VirusTotal will reveal the flag.
+The objective of this challenge is to determine the owner's email from an image file that was reconstructed from a public WiFi. 
 
 # Solution
-**1. Analyzing the PCAP**
+**1. Review the Image Pr**
 
 In wireshark analyzing the conversation between IP Addresses '192.168.10.128' and '192.168.10.130' indicates a file download from '192.168.10.130' on port 8080.
  
