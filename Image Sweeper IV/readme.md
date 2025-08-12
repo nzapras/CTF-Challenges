@@ -4,30 +4,32 @@
 
 ## Description
 
-The objective of this challenge is to determine the owner's email from an image file that was reconstructed from a public WiFi. 
+The objective of this challenge is to determine the target's web admin's password. 
 
 # Solution
-**1. Review Metadata**
+**1. Review Target Github**
 
-Reviewing the Metadata will reveal that the photographer's online alias is C0SM1CINFLUX.
+Reviewing github will reveal that the target has a blog post webpage. 
  
-**2. Conduct a Search**
+**2. Review Webpage Elements**
 
-After conducting a thorough search, the user should be able to find the target's github and subsequently the target's twitter page and blog.
+Reviewing the elemnents and html code of the web page will reveal a hidden piece of text that blends in with the back ground of the webpage.  The text is as follows: "VG9wU2VjcmV0ISEwMQ==" 
 
-**3. Locating the Email**
+**3. Decoding the Text**
 
-The user can then find the target's email visible in their Project-Recruiter repo readme.md file.
+Upon further inspection, the text is an encoded string using base64.  Once decoded the text reads: "TopSecret!!01"
+
+**4. Submitting the Flag**
+
+One can the submit this flag in the following format: flag{TopSecret!!01}.
 
 # Recreating this challenge 
-Recreating this challenge is simple however requires a few steps.
 
 To recreate this challenge one can follow these steps:
 
-1. Select an image to start with.
-2. Modify the copyright metadata string to be the name/alias of the target.
-3. Create a supporting github account, twitter account, and blog web page.
-4. Create a repo on the github account with an readme.md file that contains the target's email. 
+1. Create and host a simple HTML webpage.
+2. Create and encode the flag using base64.
+3. Insert the flag on the webpage and hide it matching the bacground colour site with the encoded text.
 
 This completes the recreation of this CTF Challenge. 
 
