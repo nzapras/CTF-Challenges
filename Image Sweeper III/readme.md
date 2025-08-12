@@ -25,12 +25,7 @@ Lastly, this BSSID can then be looked up on Wigle.net, a free web app.  This wil
 
 # Recreating this challenge
 
-To recreate this challenge one can follow these steps:
-
-1. Select an image to start with.
-2. Modify the copyright metadata string to be the name/alias of the target.
-3. Create a supporting github account, twitter account, and blog web page.
-4. Create a repo on the github account with an readme.md file that contains the target's email. 
+To recreate this challenge one can continue with the Twitter page made in Image Sweeper I and simply post a tweet revealing a BSSID.
 
 This completes the recreation of this CTF Challenge. 
 
