@@ -28,7 +28,7 @@ To recreate this challenge one can follow these steps:
 
 1. Select an image to start with.
 2. Create a flag and encode it base64.
-3. Create and text file and insert the flag.
+3. Create a text file and insert the flag.
 4. Zip the text file.
 5. Use the following command on the window command prompt: copy / b [name of image file]+[name of text file] [new name of second image file]
 6. Then upload the new image file to the github repo of your target account. 
