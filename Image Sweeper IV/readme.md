@@ -1,6 +1,6 @@
 ﻿﻿
 
-# Challenge 1 - Image Sweeper I
+# Challenge 4 - Image Sweeper IV
 
 ## Description
 
