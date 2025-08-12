@@ -4,30 +4,30 @@
 
 ## Description
 
-The objective of this challenge is to determine the owner's email from an image file that was reconstructed from a public WiFi. 
+The objective of this challenge is to determine the target's etherium wallet address. 
 
 # Solution
-**1. Review Metadata**
+**1. Review the Target's Github**
 
-Reviewing the Metadata will reveal that the photographer's online alias is C0SM1CINFLUX.
+Reviewing the target's github will reveal a repository called 'ETH'.
  
-**2. Conduct a Search**
+**2. Review Revision History**
 
-After conducting a thorough search, the user should be able to find the target's github and subsequently the target's twitter page and blog.
+After reviewing the revison history for the repository one will notice that orginial commit reveals all details realted 
+to the etherium wallet, including the wallet address.
 
-**3. Locating the Email**
+**3. Submitting the flag**
 
-The user can then find the target's email visible in their Project-Recruiter repo readme.md file.
+Now that the ETH wasllet address has been found, one can simple enter the following flag to complete the challenge:
+flag{0xa102397dbeeBeFD8cD2F73A89122fCdB53abB6ef}
 
 # Recreating this challenge 
 Recreating this challenge is simple however requires a few steps.
 
 To recreate this challenge one can follow these steps:
 
-1. Select an image to start with.
-2. Modify the copyright metadata string to be the name/alias of the target.
-3. Create a supporting github account, twitter account, and blog web page.
-4. Create a repo on the github account with an readme.md file that contains the target's email. 
+1. Building on the Github created for challenge Image Sweeper I, create a repo with simple text file containing etherium wallet details.
+2. Then commit a change to the file which only provides the format of the wallet details.
 
 This completes the recreation of this CTF Challenge. 
 
