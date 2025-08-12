@@ -13,7 +13,7 @@ Reviewing the ciphertext will make users realize that the cipher applied is a si
  
 **2. Conduct a Search**
 
-The user can then use quick decrpytion tools such as https://www.dcode.fr/caesar-cipher easily decode the message which transaltes too: **Just like the salad :)**
+The user can then use quick decrpytion tools such as https://www.dcode.fr/caesar-cipher to easily decode the message which transaltes too: **Just like the salad :)**
 
 **3. Entering the Flag**
 
