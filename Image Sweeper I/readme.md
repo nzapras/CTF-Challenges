@@ -1,6 +1,6 @@
 ﻿
 
-# Challenge 7 Not Malware!
+# Challenge 1 - Image Sweeper I
 
 ## Description
 
