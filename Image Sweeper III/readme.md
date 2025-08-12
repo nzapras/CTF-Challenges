@@ -7,20 +7,22 @@
 This challenge is one in a series of challenges which starts at the image level. In the first challenge (Image Sweeper I), the user is provided an image which can then be used to reverse lookup the owner’s github account via the image file metadata.  From this point the user is expected to thoroughly inspect and review information that can be found on github as well as any other associated accounts or information that can be uncovered to determine the SSID of the WAP network the target was connected to.   
 
 # Solution
-**1. Review Metadata**
 
-Reviewing the Metadata will reveal that the photographer's online alias is C0SM1CINFLUX.
+After previously discovering the target’s github in the challenge ‘Image Sweeper I’ one can find the target’s Twitter/X handle as seen in the Figure X.  From here it is expected that users will navigate to the target’s twitter as part of a their OSINT investigation.   
+
+
+Insert Image 1
  
-**2. Conduct a Search**
 
-After conducting a thorough search, the user should be able to find the target's github and subsequently the target's twitter page and blog.
+Once the users have navigated to the target’s twitter page they are then expected to navigate to the ‘Posts’ tab where they will find a tweet which states that the target states that they can free wifi from their apartment. Additionally, the target also provides the BSSID of the wifi they are connecting to for free.  This information is outlined in Figure X.  
 
-**3. Locating the Email**
+Insert Image 2
 
-The user can then find the target's email visible in their Project-Recruiter repo readme.md file.
+Lastly, this BSSID can then be looked up on Wigle.net, a free web app.  This will not only reveal the geolocation of the target but also the SSID of the network they are connected to. This is highlighted in Figure X. The user then enters the SSID as the flag to complete the challenge. 
 
-# Recreating this challenge 
-Recreating this challenge is simple however requires a few steps.
+Insert Image 3
+
+# Recreation
 
 To recreate this challenge one can follow these steps:
 
