@@ -17,7 +17,7 @@ The user can then use quick decrpytion tools such as https://www.dcode.fr/caesar
 
 **3. Entering the Flag**
 
-The user can then simple enter the flag in the following format: flag{Just like the salad :)}
+The user can then simply enter the flag in the following format: flag{Just like the salad :)}
 
 # Recreating this challenge 
 
