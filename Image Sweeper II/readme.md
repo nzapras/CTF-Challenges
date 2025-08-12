@@ -18,7 +18,7 @@ to the etherium wallet, including the wallet address.
 
 **3. Submitting the flag**
 
-Now that the ETH wasllet address has been found, one can simple enter the following flag to complete the challenge:
+Now that the ETH wallet address has been found, one can simple enter the following flag to complete the challenge:
 flag{0xa102397dbeeBeFD8cD2F73A89122fCdB53abB6ef}
 
 # Recreating this challenge 
