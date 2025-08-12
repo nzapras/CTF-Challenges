@@ -4,7 +4,7 @@
 
 ## Description
 
-The objective of this challenge is to determine the owner's email from an image file that was reconstructed from a public WiFi. 
+This challenge is one in a series of challenges which starts at the image level. In the first challenge (Image Sweeper I), the user is provided an image which can then be used to reverse lookup the owner’s github account via the image file metadata.  From this point the user is expected to thoroughly inspect and review information that can be found on github as well as any other associated accounts or information that can be uncovered to determine the SSID of the WAP network the target was connected to.   
 
 # Solution
 **1. Review Metadata**
