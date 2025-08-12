@@ -4,12 +4,12 @@
 
 ## Description
 
-The objective of this challenge is to determine the owner's email from an image file that was reconstructed from a public WiFi. 
+The objective of this challenge is to decrypt the provided cyphertext: **Qbza sprl aol zhshk :)**
 
 # Solution
-**1. Review Metadata**
+**1. Review the Ciphertext**
 
-Reviewing the Metadata will reveal that the photographer's online alias is C0SM1CINFLUX.
+Reviewing the ciphertext will make users realize that the cipher applied is a simple Ceasarian shift as the ciphertext has no encryption for special chacters used
  
 **2. Conduct a Search**
 
