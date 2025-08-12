@@ -30,7 +30,7 @@ To recreate this challenge one can follow these steps:
 
 1. Select an image to start with.
 2. Modify the copyright metadata string to be the name/alias of the target using `exiftool`.
-3. Create a supporting github account, twitter account, and blog webpage.
+3. Create a supporting github account `https://github.com/C0SM1CINFLUX`, twitter account `https://x.com/C0SM1CINFLUX`, and blog webpage `https://comets.pro/`.
 4. Create a repo on the github account with an readme.md file that contains the target's email. 
 
 This completes the recreation of this CTF Challenge. 
