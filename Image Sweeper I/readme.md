@@ -24,7 +24,7 @@ Recreating this challenge is simple however requires a few steps.
 
 To recreate this challenge one can follow these steps:
 
-1. Select an image to start with 'exiftool'.
+1. Select an image to start with `exiftool`.
 2. Modify the copyright metadata string to be the name/alias of the target.
 3. Create a supporting github account, twitter account, and blog web page.
 4. Create a repo on the github account with an readme.md file that contains the target's email. 
