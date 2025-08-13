@@ -9,17 +9,10 @@ This challenge is the first challenge in two a part challenge wherein the user i
 With this in mind, the goal of this challenge is to determine the online identity of the adversary (email address) which leaked this information.
 
 # Solution
-**1. Review Metadata**
 
-Reviewing the Metadata will reveal that the photographer's online alias is C0SM1CINFLUX.
+
+Reviewing Jean's emails will reveal an email from ‘Alison’ was received urging Jean for the sensitive document that was leaked. Upon further inspection of the same email it is clear that the return path of the email is not Alison's email or even M57.biz related.  An even closer look will reveal that the email was actually sent by a ‘tuckgeorge@gmail.com’, which confirms that the sensitive information was released via a spear phishing attack wherein the attacker posed as Alison.  
  
-**2. Conduct a Search**
-
-After conducting a thorough search, the user should be able to find the target's github and subsequently the target's twitter page and blog.
-
-**3. Locating the Email**
-
-The user can then find the target's email visible in their Project-Recruiter repo readme.md file.
 
 # Recreating this challenge 
 Recreating this challenge is simple however requires a few steps.
