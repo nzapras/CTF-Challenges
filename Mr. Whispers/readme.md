@@ -29,18 +29,11 @@ Therefore, the flag will be: `flag{You exist to open cans and scratch behind my 
 
 To recreate this challenge one can follow these steps:
 
-1. Select an 9 images to start with.
+1. Select 9 images to start with.
 2. Create a message to be the flag.
 3. Divide it in half and encode each half in base 64
-4. Create a text file for cipher text and zip them.
-5. 
-
-1. Select an image to start with.
-2. Create a flag and encode it base64.
-3. Create a text file and insert the flag.
-4. Zip the text file.
-5. Use the following command on Windows command prompt: copy / b [name of image file]+[name of text file] [new name of second image file]
-6. Then upload the new image file to the github repo of your target account. 
+4. Create a text file for each cipher text and zip them.
+5. Then for each zip select 2 files to hide them in by using the following command on Windows command prompt: copy / b [name of image file]+[name of text file] [new name of second image file]
 
 This completes the recreation of this CTF Challenge. 
 
