@@ -15,14 +15,8 @@ Reviewing Jean's emails will reveal an email from ‘Alison’ was received urgi
  
 
 # Recreating this challenge 
-Recreating this challenge is simple however requires a few steps.
 
-To recreate this challenge one can follow these steps:
+To recreate this challenge one can simply download the multi-volume files listed below:
 
-1. Select an image to start with.
-2. Modify the copyright metadata string to be the name/alias of the target.
-3. Create a supporting github account, twitter account, and blog web page.
-4. Create a repo on the github account with an readme.md file that contains the target's email. 
-
-This completes the recreation of this CTF Challenge. 
-
+1. nps-2008-jean.E01
+2. nps-2008-jean.E02 
