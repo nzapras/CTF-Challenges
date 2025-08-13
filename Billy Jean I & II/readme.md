@@ -16,7 +16,7 @@ Reviewing Jean's emails will reveal an email from ‘Alison’ was received urgi
 
 # Recreating this challenge 
 
-To recreate this challenge one can simply download the multi-volume files listed below:
+To recreate this challenge one can simply download the multi-volume files listed below from the following source: https://digitalcorpora.org/corpora/scenarios/m57-jean/
 
 1. nps-2008-jean.E01
 2. nps-2008-jean.E02 
