@@ -26,7 +26,7 @@ Recreating this challenge is simple however requires a few steps.
 
 To recreate this challenge one can follow these steps:
 
-1. Building on the Github created for challenge Image Sweeper I, create a repo with simple text file containing etherium wallet details.
+1. Building on the Github created for challenge Image Sweeper I, create a repo with simple text file containing Ethereum wallet details.
 2. Then commit a change to the file which only provides the format of the wallet details.
 
 This completes the recreation of this CTF Challenge. 
