@@ -15,10 +15,19 @@ Reviewing the ciphertext will make users realize that the cipher applied base64.
 
 The user can then use a base64 decoder tool found with a quick google search to see the plaintext.  The user will then realize that the plaintext is still encrypted and that the
 true plaintext is has been evolped in multiple encryption layers. Decoding from base64 produces the following result: 
+`GU2DMOBWHE3TGMRQGY4DMMJXGMZDANSEGYYTMRJXHEZDANSDGYYTOOJWGU3TENZTGJCTERJSIUZDANCDGY4TMQRWGUZDANRRGZCTEMBWIY3EKNRZGZDDMRJSIU======`
 
-**3. Entering the Flag**
+**3. Decoding the First Result**
 
-The user can then simply enter the flag in the following format: flag{Just like the salad :)}
+From the previous decryption result, one can notice that the encoding method used at this layer is base32, so ciphertext will be decoded again using base32 this time.  This yields the
+following result:
+`5468697320686173206D616E79206C61796572732E2E2E204C696B6520616E206F6E696F6E2E`
+
+**4. Decoding the Second Result**
+
+Once again decoding yields another ciphertext, although at this point the user can infer that if the first two layers used base64 and base32 then the current ciphertext can be decoded with base16.
+Applying this yields the following plaintext: 
+`This has many layers... Like an onion.`
 
 # Recreating this challenge 
 
