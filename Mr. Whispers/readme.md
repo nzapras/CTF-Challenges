@@ -4,7 +4,7 @@
 
 ## Description
 
-The objective of this challenge is to determine the owner's email from an image file that was reconstructed from a public WiFi. 
+The objective of this challenge is to extract the hidden message which has been spread accross one or more of the 9 images of cats found in the provided folder. 
 
 # Solution
 **1. Review Metadata**
