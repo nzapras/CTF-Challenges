@@ -33,7 +33,7 @@ Applying this yields the following plaintext:
 
 To recreate this challenge one can follow these steps:
 
-1. Create your plaintext and apply the caeser shift.
+1. Create your plaintext and apply encoding in the following order: Base16 --> Base32 --> Base64.
 2. Create the challenge on the CTF platform with the ciphertext provided in the challenge.
 
 This completes the recreation of this CTF Challenge. 
