@@ -14,7 +14,7 @@ Reviewing the ciphertext will make users realize that the cipher applied base64.
 **2. Decoding the Cyphertext**
 
 The user can then use a base64 decoder tool found with a quick google search to see the plaintext.  The user will then realize that the plaintext is still encrypted and that the
-true plaintext is has been evolped in multiple encryption layers. Decoding from base64 produces the following result: 
+true plaintext is has been enveloped in multiple encryption layers. Decoding from base64 produces the following result: 
 `GU2DMOBWHE3TGMRQGY4DMMJXGMZDANSEGYYTMRJXHEZDANSDGYYTOOJWGU3TENZTGJCTERJSIUZDANCDGY4TMQRWGUZDANRRGZCTEMBWIY3EKNRZGZDDMRJSIU======`
 
 **3. Decoding the First Result**
