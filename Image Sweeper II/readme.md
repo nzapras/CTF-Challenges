@@ -13,7 +13,7 @@ Reviewing the target's github will reveal a repository called 'ETH'.
  
 **2. Review Revision History**
 
-After reviewing the revison history for the repository one will notice that orginial commit reveals all details realted 
+After reviewing the revision history for the repository one will notice that orginial commit reveals all details realted 
 to the Ethereum wallet, including the wallet address.
 
 **3. Submitting the flag**
