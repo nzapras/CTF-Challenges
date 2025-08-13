@@ -4,7 +4,7 @@
 
 ## Description
 
-The objective of this challenge is to determine the owner's email from an image file that was reconstructed from a public WiFi. 
+The objective of this challenge is to decrypt the provided cyphertext: **R1UyRE1PQldIRTNUR01SUUdZNERNTUpYR01aREFOU0VHWVlUTVJKWEhFWkRBTlNER1lZVE9PSldHVTNURU5aVEdKQ1RFUkpTSVVaREFOQ0RHWTRUTVFSV0dVWkRBTlJSR1pDVEVNQldJWTNFS05SWkdaRERNUkpTSVU9PT09PT0**=
 
 # Solution
 **1. Review Metadata**
