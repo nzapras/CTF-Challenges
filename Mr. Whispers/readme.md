@@ -31,7 +31,7 @@ To recreate this challenge one can follow these steps:
 
 1. Select 9 images to start with.
 2. Create a message to be the flag.
-3. Divide it in half and encode each half in base 64
+3. Divide it in half and encode each half in base64
 4. Create a text file for each cipher text and zip them.
 5. Then for each zip select 2 files to hide them in by using the following command on Windows command prompt: copy / b [name of image file]+[name of text file] [new name of second image file]
 
