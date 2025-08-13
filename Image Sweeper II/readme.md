@@ -4,7 +4,7 @@
 
 ## Description
 
-The objective of this challenge is to determine the target's etherium wallet address. 
+The objective of this challenge is to determine the target's Ethereum wallet address. 
 
 # Solution
 **1. Review the Target's Github**
