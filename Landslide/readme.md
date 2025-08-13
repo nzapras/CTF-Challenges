@@ -11,7 +11,7 @@ The objective of this challenge is to decrypt the provided cyphertext: **Qbza sp
 
 Reviewing the ciphertext will make users realize that the cipher applied is a simple Ceasarian shift as the ciphertext has no encryption for special chacters used.
  
-**2. Conduct a Search**
+**2. Decoding the Cyphertext**
 
 The user can then use quick decrpytion tools such as https://www.dcode.fr/caesar-cipher to easily decode the message which transaltes too: **Just like the salad :)**
 
