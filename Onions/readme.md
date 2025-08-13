@@ -29,6 +29,8 @@ Once again decoding yields another ciphertext, although at this point the user c
 Applying this yields the following plaintext: 
 `This has many layers... Like an onion.`
 
+Therefore. the flag is `flag{This has many layers... Like an onion.}`
+
 # Recreating this challenge 
 
 To recreate this challenge one can follow these steps:
