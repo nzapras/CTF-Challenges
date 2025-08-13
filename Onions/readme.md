@@ -9,11 +9,12 @@ The objective of this challenge is to decrypt the provided cyphertext: **R1UyRE1
 # Solution
 **1. Review the Ciphertext**
 
-Reviewing the ciphertext will make users realize that the cipher applied is a simple Ceasarian shift as the ciphertext has no encryption for special chacters used.
+Reviewing the ciphertext will make users realize that the cipher applied base64.
  
 **2. Decoding the Cyphertext**
 
-The user can then use quick decrpytion tools such as https://www.dcode.fr/caesar-cipher to easily decode the message which transaltes too: **Just like the salad :)**
+The user can then use a base64 decoder tool found with a quick google search to see the plaintext.  The user will then realize that the plaintext is still encrypted and that the
+true plaintext is has been evolped in multiple encryption layers. Decoding from base64 produces the following result: 
 
 **3. Entering the Flag**
 
