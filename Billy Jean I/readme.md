@@ -11,7 +11,7 @@ With this in mind, the goal of this challenge is to determine the online identit
 # Solution
 
 
-Reviewing Jean's emails will reveal an email from ‘Alison’ was received urging Jean for the sensitive document that was leaked. Upon further inspection of the same email it is clear that the return path of the email is not Alison's email or even M57.biz related.  An even closer look will reveal that the email was actually sent by a ‘tuckgeorge@gmail.com’, which confirms that the sensitive information was released via a spear phishing attack wherein the attacker posed as Alison.  
+Reviewing Jean's emails will reveal an email from ‘Alison’ was received urging Jean for the sensitive document that was leaked. Upon further inspection of the same email it is clear that the return path of the email is not Alison's email or even M57.biz related.  An even closer look will reveal that the email was actually sent by a ‘tuckgeorge@gmail.com’, which confirms that the sensitive information was released via a spear phishing attack wherein the attacker posed as Alison.  Therefore the flag in this challenge would be `flag{tuckgeorge@gmail.com}`.
  
 
 # Recreating this challenge 
