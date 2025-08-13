@@ -4,7 +4,7 @@
 
 ## Description
 
-Continuing from Billy Jean I, the goal of this challenge is to fetermine the date the sensitive business data file was created. 
+Continuing from Billy Jean I, the goal of this challenge is to determine the date the sensitive business data file was created. 
 
 # Solution
 
