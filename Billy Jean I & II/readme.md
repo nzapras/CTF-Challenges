@@ -6,7 +6,7 @@
 
 This challenge is the first challenge in two a part challenge wherein the user is provided a multi-volume file. You will need to download both of the files and put them in the same directory or else you will not be able to process the disk image. The disk image used in this challenge can be found here https://digitalcorpora.org/corpora/scenarios/m57-jean/. The disk image given is from an employee named Jean who works at M57.biz. A few weeks into the creation of the company, a confidential spreadsheet that contains the names and salaries of the company’s key employees was found posted to the comment section of one of the firm’s competitors.
 
-With this in mind, the goal of this challenge is to determine the online identity of the threat actor which leaked this information.
+With this in mind, the goal of this challenge is to determine the online identity of the threat actor (email address) which leaked this information.
 
 # Solution
 **1. Review Metadata**
