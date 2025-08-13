@@ -7,27 +7,24 @@
 The objective of this challenge is to decrypt the provided cyphertext: **R1UyRE1PQldIRTNUR01SUUdZNERNTUpYR01aREFOU0VHWVlUTVJKWEhFWkRBTlNER1lZVE9PSldHVTNURU5aVEdKQ1RFUkpTSVVaREFOQ0RHWTRUTVFSV0dVWkRBTlJSR1pDVEVNQldJWTNFS05SWkdaRERNUkpTSVU9PT09PT0**=
 
 # Solution
-**1. Review Metadata**
+**1. Review the Ciphertext**
 
-Reviewing the Metadata will reveal that the photographer's online alias is C0SM1CINFLUX.
+Reviewing the ciphertext will make users realize that the cipher applied is a simple Ceasarian shift as the ciphertext has no encryption for special chacters used.
  
-**2. Conduct a Search**
+**2. Decoding the Cyphertext**
 
-After conducting a thorough search, the user should be able to find the target's github and subsequently the target's twitter page and blog.
+The user can then use quick decrpytion tools such as https://www.dcode.fr/caesar-cipher to easily decode the message which transaltes too: **Just like the salad :)**
 
-**3. Locating the Email**
+**3. Entering the Flag**
 
-The user can then find the target's email visible in their Project-Recruiter repo readme.md file.
+The user can then simply enter the flag in the following format: flag{Just like the salad :)}
 
 # Recreating this challenge 
-Recreating this challenge is simple however requires a few steps.
 
 To recreate this challenge one can follow these steps:
 
-1. Select an image to start with.
-2. Modify the copyright metadata string to be the name/alias of the target.
-3. Create a supporting github account, twitter account, and blog web page.
-4. Create a repo on the github account with an readme.md file that contains the target's email. 
+1. Create your plaintext and apply the caeser shift.
+2. Create the challenge on the CTF platform with the ciphertext provided in the challenge.
 
 This completes the recreation of this CTF Challenge. 
 
