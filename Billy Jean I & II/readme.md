@@ -1,6 +1,6 @@
 ﻿﻿
 
-# Challenge 9 & 10 - Billy Jean I & II
+# Challenge 9 - Billy Jean I
 
 ## Description
 
