@@ -4,14 +4,11 @@
 
 ## Description
 
-This challenge is the first challenge in two a part challenge wherein the user is provided a multi-volume file. You will need to download both of the files and put them in the same directory or else you will not be able to process the disk image. The disk image used in this challenge can be found here https://digitalcorpora.org/corpora/scenarios/m57-jean/. The disk image given is from an employee named Jean who works at M57.biz. A few weeks into the creation of the company, a confidential spreadsheet that contains the names and salaries of the company’s key employees was found posted to the comment section of one of the firm’s competitors.
-
-With this in mind, the goal of this challenge is to determine the online identity of the adversary (email address) which leaked this information.
+Continuing from Billy Jean I, the goal of this challenge is to fetermine the date the sensitive business data file was created. 
 
 # Solution
 
-
-Reviewing Jean's emails will reveal an email from ‘Alison’ was received urging Jean for the sensitive document that was leaked. Upon further inspection of the same email it is clear that the return path of the email is not Alison's email or even M57.biz related.  An even closer look will reveal that the email was actually sent by a ‘tuckgeorge@gmail.com’, which confirms that the sensitive information was released via a spear phishing attack wherein the attacker posed as Alison.  
+Reviewing Jean's emails will reveal an email from ‘Alison’ was received urging Jean for the sensitive document that was leaked.  In Jean's response email, the excel fil can be found. The user can the review the file metadata to determine the date the file was created.  This would lead the user to the following the date: `2008-06-12`.  Therefore, the flag is: `flag{2008-06-12}`
  
 
 # Recreating this challenge 
