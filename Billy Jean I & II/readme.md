@@ -1,6 +1,6 @@
 ﻿﻿
 
-# Challenge 1 - Image Sweeper I
+# Challenge 0 & 10 - Billy Jean I & II
 
 ## Description
 
